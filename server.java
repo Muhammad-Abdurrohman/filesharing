@@ -10,7 +10,7 @@ import java.io.*;
 import java.util.*;
 /**
  *
- * @author USER
+ * @author Marvin Zeson - Mujahid Husein - Muhammad Abdurrohman
  */
 public class Server {
 
