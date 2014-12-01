@@ -9,7 +9,7 @@ import java.net.*;
 import java.io.*;
 /**
  *
- * @author USER
+ * @author Marvin Zeson - Mujahid Husein - Muhammad Abdurrohman
  */
 public class Client {
 /**
